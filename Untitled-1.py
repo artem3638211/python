@@ -14,11 +14,11 @@ if a is not None and len(a) > 0:
     print('OK')
 
 
-a = "нет ошибок"
-if a is not None and len(a) > 0:
-    print("Ok")
+#a = "нет ошибок"
+#if a is not None and len(a) > 0:
+ #   print("Ok")
 
-
+print("это мой первый Пуш в репозиторий")
 
 
 
