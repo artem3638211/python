@@ -18,7 +18,7 @@ if a is not None and len(a) > 0:
 #if a is not None and len(a) > 0:
  #   print("Ok")
 
-print("это мой первый Пуш в репозиторий")
+print("Нет это  первый Пуш в репозиторий Твоего преподавателя!!!!")
 
 
 
