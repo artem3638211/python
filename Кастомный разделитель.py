@@ -1,8 +1,8 @@
-sep = "*"
-a = "раз"
-b = "два"
-c = "три"
-print()
+a = input()
+b = input()
+c = input()
+d = input()
+print(b,c,d,sep=a)
 
 
 
