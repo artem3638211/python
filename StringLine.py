@@ -54,3 +54,4 @@ def process_line(s):
 
 for line in lines:
     print(process_line(line))
+#ДЗ Для Артема Сделай Сортировку строк по количеству "o" В конце 
